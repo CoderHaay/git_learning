@@ -42,6 +42,7 @@ div.accordion {
 div.accordion.active, div.accordion:hover {
   background-color: white;
   color: #1D2031;
+  
 }
 
 div.panel {
